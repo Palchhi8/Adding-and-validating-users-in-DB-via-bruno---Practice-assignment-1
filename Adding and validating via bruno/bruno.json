@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Adding and validating",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
